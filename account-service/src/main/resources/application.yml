@@ -1,0 +1,8 @@
+server:
+  port: 17777
+
+com:
+  chris:
+    swaggerEnable: true
+    userServer: http://localhost:18888
+
